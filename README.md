@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning and upskilling myself.
-- 🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
+- 🧰 My analytics toolbox contains SQL, Power BI, DAX, Power Query & MS Excel.
 - 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 - 💬 Ask me about SQL, Power BI.
   
