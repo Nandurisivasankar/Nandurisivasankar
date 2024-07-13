@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandurisivasankar&label=Profile%20views&color=0e75b6&style=flat" alt="nandurisivasankar" /> </p>
 
+img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"
+
 - 🌱 I’m currently learning **Power BI, SQL, Excel**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nanduri.carrd.co/#one)
