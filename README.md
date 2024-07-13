@@ -11,7 +11,7 @@
 - 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 - 💬 Ask me about SQL, Power BI.
 - ❤️ I love learning new things!
-
+- 
 -  👨‍💻 All of my projects are available at [**My Portfolio**](https://nanduri.carrd.co/#one)
 - Connect with me at [**LinkedIn**](https://www.linkedin.com/in/nanduri-siva-sankar-8b21122a8/)
 
