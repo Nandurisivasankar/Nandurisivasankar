@@ -11,8 +11,6 @@
 
 - Connect with me at [LinkedIn](https://www.linkedin.com/in/nanduri-siva-sankar-8b21122a8/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandurisivasankar&show_icons=true&locale=en" alt="nandurisivasankar" /></p>
