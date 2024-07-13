@@ -5,10 +5,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-- 🌱 I’m currently learning **Power BI, SQL, Excel**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://nanduri.carrd.co/#one)
+- 🌱 I’m currently learning and upskilling myself.
+- 🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
+- 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
+- 💬 Ask me about SQL, Power BI.
+- ❤️ I love learning new things!
 
+-  👨‍💻 All of my projects are available at [My Portfolio](https://nanduri.carrd.co/#one)
 - Connect with me at [LinkedIn](https://www.linkedin.com/in/nanduri-siva-sankar-8b21122a8/)
 
 
