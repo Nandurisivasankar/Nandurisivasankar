@@ -13,7 +13,3 @@
   
 -  👨‍💻 All of my projects are available at [**My Portfolio**](https://nanduri.carrd.co/#one)
 - Connect with me at [**LinkedIn**](https://www.linkedin.com/in/nanduri-siva-sankar-8b21122a8/)
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandurisivasankar&show_icons=true&locale=en" alt="nandurisivasankar" /></p>
